@@ -19,3 +19,7 @@ npm i svelte-inline-edit --save-dev
 ## Events
 
 - `loadMore` - Call with offset
+
+## License
+
+MIT &copy; [TarasGordienko](https://github.com/razrabotal)
