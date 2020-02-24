@@ -8,3 +8,14 @@
 ```bash
 npm i svelte-inline-edit --save-dev
 ```
+
+## Props
+
+| Name | Type | Description | Required | Default |
+| --- | --- | --- | --- | --- |
+| `hasMore` | `bool` | Indicator if there are any items to load | No | true |
+| `threshold` | `number` | Threshold to call loadMore | No | 100 |
+
+## Events
+
+- `loadMore` - Call with offset
