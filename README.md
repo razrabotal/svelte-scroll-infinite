@@ -22,4 +22,4 @@ npm i svelte-inline-edit --save-dev
 
 ## License
 
-MIT &copy; [TarasGordienko](https://github.com/razrabotal)
+MIT &copy; [Taras Gordienko](https://github.com/razrabotal)
