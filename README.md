@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-npm i svelte-inline-edit --save-dev
+npm i svelte-scroll-infinite --save-dev
 ```
 
 ## Props
