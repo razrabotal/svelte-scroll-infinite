@@ -21,7 +21,7 @@ npm i svelte-scroll-infinite --save-dev
 - `loadMore` - Call with offset
 
 ## Warning
-> ⚠️ You also want to add the [intersection-observer](https://www.npmjs.com/package/intersection-observer) polyfill for full browser support. Check out adding the [polyfills](#polyfills) for details about how you can include it.
+> ⚠️ You also want to add the [intersection-observer](https://www.npmjs.com/package/intersection-observer) polyfill for full browser support.
 
 ## License
 
