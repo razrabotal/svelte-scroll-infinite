@@ -1,6 +1,6 @@
 # svelte-scroll-infinite changelog
 
-## 1.0.4
+## 1.0.5
 
 * Update README
 
