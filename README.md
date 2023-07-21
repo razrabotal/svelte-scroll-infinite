@@ -1,7 +1,7 @@
 # Svelte Infinite Scroll
 [![NPM version](https://img.shields.io/npm/v/svelte-viewpoint.svg?style=flat)](https://www.npmjs.com/package/svelte-scroll-infinite)
 
-[Demo REPL](https://svelte.dev/repl/22e1305dea994aafac795c8e3d74b79c?version=3.19.1)
+[Demo REPL](https://svelte.dev/repl/528e077fda1a4c95bfed72e76036e599?version=4.1.1)
 
 ## Install
 
